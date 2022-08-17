@@ -1,0 +1,162 @@
+*{
+    padding:0;
+    margin:0;
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    
+    background-image:url(/Fondo3.jpg);
+    mask-repeat:0;
+    background-size:cover;
+    
+}
+
+
+a,li{
+    font-family: "roboto", sans-serif;
+    color: rgb(230, 233, 38);
+}
+
+.header{
+    background-color: #222;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+
+.inicio{
+    font-family: "roboto", sans-serif;
+    background-color: rgb(40, 212, 40);
+    position:fixed;
+    margin-left: 15px;
+    padding: 10px;
+    border-radius: 50px;
+    
+}
+
+.menu ul{
+    display: flex ;
+    align-items: center;
+}
+
+.menu li{
+    display: flex;
+    margin-right: 50px;
+}
+
+.menu a:hover{
+    color: rgb(50, 158, 158);
+}
+
+.menu li:last-child{
+    background-color: rgb(128, 123, 123);
+    border: 5px solid rgb(128,123,123); 
+    padding: 4px;
+    border-radius: 10px;   
+}
+
+.menu li:last-child:hover{
+    background-color: transparent;
+    border: 5.1px solid rgb(128,123,123);
+}
+
+.Cristian{
+    background: url(/Fondo01.jpg)no-repeat;
+    background-size:980px;
+    background-position: center;
+    background-color: rgb(29, 28, 28);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 70px;
+    
+}
+
+.src{
+    mask-repeat:0;
+}
+
+.foto{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.pasado{
+    background-color: rgb(66, 65, 65);
+    width: 550px;
+    height: 800px;
+    font-size: 20px;
+    margin-top: 7rem;
+    margin-left: 7rem;
+    border-radius: 10px;
+    border-style:solid;
+    box-shadow: rgba(0, 0, 0, 0.6);
+}
+p{
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-right: 7px;
+}
+
+p{
+    color:rgb(141, 185, 189)
+}
+
+h1{
+    color:rgb(185, 70, 211)
+}
+
+h2{
+    color:rgb(47, 158, 19)
+}
+
+.Presente{
+    background-color: rgb(66, 65, 65);
+    width: 550px;
+    height: 450px;
+    font-size: 20px;
+    margin-top: 7rem;
+    margin-left: 40rem;
+    border-radius: 10px;
+    border-style:solid;
+    box-shadow: rgba(0, 0, 0, 0.6);
+}
+
+.Futuro{
+    background-color: rgb(66, 65, 65);
+    width: 550px;
+    height: 700px;
+    font-size: 20px;
+    margin-top: 7rem;
+    margin-left: 7rem;
+    border-radius: 10px;
+    border-style:solid;
+    box-shadow: rgba(0, 0, 0, 0.6);
+}
+
+.im1{
+    height: 100px;
+    width: 250px;
+    
+    margin-left: 145px;
+}
+
+.uni{
+    height: 150px;
+    width: 250px;
+    margin-left: 145px;
+}
+
+.futi{
+    height: 150px;
+    width: 400px; 
+    margin-left: 60px;
+}
+
+
