@@ -7,8 +7,8 @@
 
 body{
     
-    background-image:url(/Fondo3.jpg);
-    mask-repeat:0;
+    background-image:url(./Fondo3.jpg);
+    no-repeat:0;
     background-size:cover;
     
 }
@@ -65,7 +65,7 @@ a,li{
 }
 
 .Cristian{
-    background: url(/Fondo01.jpg)no-repeat;
+    background: url(./Fondo01.jpg)no-repeat;
     background-size:980px;
     background-position: center;
     background-color: rgb(29, 28, 28);
@@ -78,7 +78,7 @@ a,li{
 }
 
 .src{
-    mask-repeat:0;
+    no-repeat:0;
 }
 
 .foto{
