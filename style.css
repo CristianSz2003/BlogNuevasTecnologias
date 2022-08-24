@@ -109,7 +109,7 @@ p{
 }
 
 h1{
-    color:rgb(185, 70, 211)
+    color:rgb(150, 39, 175)
 }
 
 h2{
@@ -158,5 +158,69 @@ h2{
     width: 400px; 
     margin-left: 60px;
 }
+
+.title2{
+    
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.Padre1,.Padre2{
+    background-color: #222;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    justify-content: space-around;
+    padding: 20px;
+    
+}
+
+
+.personas,.person1,.persona,.personb{
+    background-color: rgb(29, 23, 23);
+    height: 540px; 
+    width: 540px;
+    text-align: center;
+}
+
+.pturing,.pkatherine,.ptim,.popi{
+    font-size: 20;
+}
+
+.imka{
+    height: 250px;
+    width: 400px;
+}
+
+.imal{
+    height: 250px;
+}
+
+.imtim{
+    height: 200px;
+}
+
+.marca{
+    background-color: #222;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
